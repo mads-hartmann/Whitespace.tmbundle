@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>([ ]+[\t]+)|([\t]+[ ]+)</string>
+			<string>([^\S\n\f\r])\1*(?!\1)[^\S\n\f\r]+</string>
 			<key>name</key>
 			<string>invalid.illegal.whitespace.mixed</string>
 		</dict>
