@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>mads379@gmail.com</string>
+	<key>contactName</key>
+	<string>Mads Hartmann Jensen</string>
+	<key>description</key>
+	<string>Bundle with everything related to whitespace.</string>
+	<key>name</key>
+	<string>Whitespace</string>
+	<key>uuid</key>
+	<string>93DEE3EE-5965-43DA-B92B-E37BE0167EBD</string>
+</dict>
+</plist>

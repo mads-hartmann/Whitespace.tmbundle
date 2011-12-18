@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array/>
+	<key>foldingStartMarker</key>
+	<string>/\*\*|\{\s*$</string>
+	<key>foldingStopMarker</key>
+	<string>\*\*/|^\s*\}</string>
+	<key>injectionSelector</key>
+	<string>*</string>
+	<key>name</key>
+	<string>Trailing Whitespace</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>([ \t]+)$</string>
+			<key>name</key>
+			<string>invalid.illegal.whitespace.trailing</string>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>D65149ED-CC2B-4393-9084-2DA7C1B7B12B</string>
+</dict>
+</plist>
