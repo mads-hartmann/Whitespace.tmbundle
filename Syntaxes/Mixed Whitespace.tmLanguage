@@ -4,10 +4,6 @@
 <dict>
 	<key>fileTypes</key>
 	<array/>
-	<key>foldingStartMarker</key>
-	<string>/\*\*|\{\s*$</string>
-	<key>foldingStopMarker</key>
-	<string>\*\*/|^\s*\}</string>
 	<key>injectionSelector</key>
 	<string>*</string>
 	<key>name</key>
