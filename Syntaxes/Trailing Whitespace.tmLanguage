@@ -5,7 +5,7 @@
 	<key>fileTypes</key>
 	<array/>
 	<key>injectionSelector</key>
-	<string>*</string>
+	<string>-source.diff</string>
 	<key>name</key>
 	<string>Trailing Whitespace</string>
 	<key>patterns</key>
