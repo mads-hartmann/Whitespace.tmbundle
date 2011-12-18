@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>([ \t]+)$</string>
+			<string>([^\S\n\f\r]+)$</string>
 			<key>name</key>
 			<string>invalid.illegal.whitespace.trailing</string>
 		</dict>
