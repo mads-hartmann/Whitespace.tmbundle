@@ -11,10 +11,16 @@
 	<key>patterns</key>
 	<array>
 		<dict>
+			<key>captures</key>
+			<dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>invalid.illegal.whitespace.trailing</string>
+				</dict>
+			</dict>
 			<key>match</key>
-			<string>([^\S\n\f\r]+)$</string>
-			<key>name</key>
-			<string>invalid.illegal.whitespace.trailing</string>
+			<string>((\S)([^\S\n\f\r]+)$)</string>
 		</dict>
 	</array>
 	<key>uuid</key>
